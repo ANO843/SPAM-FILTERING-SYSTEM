@@ -1,0 +1,2 @@
+Project under Artificial Intelligence<br>
+this project showcases the utility of machine learning techniques in combating the persistent issue of spam messages in digital communication channels. By integrating advanced algorithms into a user-friendly application, the project contributes to the advancement of spam detection technology, offering practical solutions for improving digital security and user experience in the modern era of information exchange.
